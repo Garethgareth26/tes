@@ -1,7 +1,7 @@
 # CAPSTONE STUDY REPORT: COMPREHENSIVE CROSS-PARADIGM COMPARISON
 **A Comparative Analysis of 4 Computer Vision Paradigms in Automated Visual Surface Inspection**
 
----
+---yes
 
 ## Slide 1: Executive Summary & Project Overview
 
